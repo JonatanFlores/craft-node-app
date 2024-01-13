@@ -1,0 +1,26 @@
+{
+  "name": "craft-node-app",
+  "version": "1.0.0",
+  "description": "Command line tool to generate and download a NodeJS boilerplate app",
+  "bin": "src/main.js",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JonatanFlores/craft-node-app.git"
+  },
+  "author": "Jonatan Flores <jonatafloress@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "boilerplate",
+    "generator",
+    "jest",
+    "eslint",
+    "prettier",
+    "typescript"
+  ]
+}
